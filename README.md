@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a 19 year old with a passion for electronics
 
 ---
 
-### 🌍 About Me:
+### About Me:
 - 🔹 Currently pursuing Second Year at IIT Patna (BTech in ECE and MTech in Communication Systems (Dual Degree (5 Years)))
 
 ---
@@ -28,4 +28,4 @@ Feel free to connect with me or explore my projects. I'm always open to discussi
 ### 🎨 Hobbies:
 - I enjoy playing Volleyball and Video Editing
 
-Thank
+Thanks for visiting my GitHub! Hope you found something Interesting.
