@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a 19 year old with a passion for electronics
 ### 🔧 Tools & Technologies:
 Here are some tools and technologies I frequently work with:
 
-- Programming Languages: C, Python, Java, Matlab
+- Programming Languages: C, Java, Matlab
 - Tools: VSCode, Simulink, LtSpice
 
 ---
