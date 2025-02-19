@@ -17,15 +17,4 @@ Here are some tools and technologies I frequently work with:
 
 ---
 
-### 🔎 Let's Connect:
-Feel free to connect with me or explore my projects. I'm always open to discussing interesting ideas or opportunities.
-
-- LinkedIn: https://www.linkedin.com/in/akhil-pavan-pabolu-1742b8327/
-- Email: akhilpavanpabolu22@gmail.com
-
----
-
-### 🎨 Hobbies:
-- I enjoy playing Volleyball and Video Editing
-
 Thanks for visiting my GitHub! Hope you found something Interesting.
